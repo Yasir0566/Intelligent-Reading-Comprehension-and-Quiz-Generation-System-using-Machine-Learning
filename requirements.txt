@@ -1,0 +1,15 @@
+streamlit==1.57.0
+scikit-learn==1.8.0
+pandas==3.0.2
+numpy==2.4.4
+plotly==6.7.0
+joblib==1.5.3
+gensim==4.4.0
+scipy==1.17.1
+nltk==3.9.4
+pyngrok==8.1.2
+matplotlib==3.10.9
+seaborn==0.13.2
+xgboost==3.2.0
+rouge-score==0.1.2
+pytest==8.2.2
