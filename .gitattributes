@@ -1,2 +1,6 @@
+data/raw/test.csv filter=lfs diff=lfs merge=lfs -text
+models/model_a/traditional/label_propagation.pkl filter=lfs diff=lfs merge=lfs -text
+/Users/user/Desktop/New[[:space:]]folder[[:space:]](4)/Intelligent-Reading-Comprehension-and-Quiz-Generation-System-using-Machine-Learning/data/raw/train.csv filter=lfs diff=lfs merge=lfs -text
+/Users/user/Desktop/New[[:space:]]folder[[:space:]](4)/Intelligent-Reading-Comprehension-and-Quiz-Generation-System-using-Machine-Learning/data/raw/val.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.pkl filter=lfs diff=lfs merge=lfs -text
