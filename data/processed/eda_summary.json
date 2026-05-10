@@ -1,0 +1,12 @@
+{
+  "total_train": 87852,
+  "total_val": 87852,
+  "total_test": 87852,
+  "avg_article_len_words": 275.0,
+  "avg_question_len_words": 10.0,
+  "answer_balance_A": 0.218,
+  "answer_balance_B": 0.259,
+  "answer_balance_C": 0.272,
+  "answer_balance_D": 0.252,
+  "outlier_count": 8712
+}
