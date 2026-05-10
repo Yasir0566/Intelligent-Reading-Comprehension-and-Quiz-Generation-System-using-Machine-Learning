@@ -1,0 +1,59 @@
+{
+  "Logistic Regression": {
+    "accuracy": 0.624625,
+    "f1_macro": 0.5777690779648237,
+    "precision": 0.5854235261790327,
+    "recall": 0.6107499999999999,
+    "confusion_matrix": [
+      [
+        3831,
+        2169
+      ],
+      [
+        834,
+        1166
+      ]
+    ]
+  },
+  "SVM (calibrated)": {
+    "accuracy": 0.75,
+    "f1_macro": 0.42857142857142855,
+    "precision": 0.375,
+    "recall": 0.5,
+    "confusion_matrix": [
+      [
+        6000,
+        0
+      ],
+      [
+        2000,
+        0
+      ]
+    ]
+  },
+  "Ensemble (LR+SVM+NB)": {
+    "accuracy": 0.75,
+    "f1_macro": 0.42857142857142855,
+    "precision": 0.375,
+    "recall": 0.5,
+    "confusion_matrix": [
+      [
+        6000,
+        0
+      ],
+      [
+        2000,
+        0
+      ]
+    ]
+  },
+  "K-Means (unsupervised)": {
+    "silhouette": 0.03046266057538032,
+    "purity": 0.75,
+    "inertia": 117124.93085952045
+  },
+  "Label Propagation (semi-sup)": {
+    "f1_macro": 0.47977739012733567,
+    "accuracy": 0.7521428571428571
+  }
+}
