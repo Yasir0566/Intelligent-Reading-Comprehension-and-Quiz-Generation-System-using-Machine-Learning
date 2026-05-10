@@ -1,0 +1,9 @@
+{
+  "label": "Model A",
+  "bleu1": 0.1072,
+  "bleu2": 0.0514,
+  "rouge1": 0.167,
+  "rouge2": 0.0437,
+  "rougeL": 0.1484,
+  "meteor": 0.1087
+}
